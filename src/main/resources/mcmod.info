@@ -1,0 +1,14 @@
+[
+  {
+	"modid": "minihax",
+	"name": "MiniHAX",
+	"description": "minor qol additions",
+	"version": "${version}",
+	"mcversion": "1.8.9",
+	"updateUrl": "",
+	"credits": "",
+	"logoFile": "",
+	"screenshots": [],
+	"dependencies": []
+  }
+]

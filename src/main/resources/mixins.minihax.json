@@ -1,0 +1,8 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "minihax.mixins",
+  "client": [
+    "MixinModList"
+  ],
+  "verbose": true
+}
